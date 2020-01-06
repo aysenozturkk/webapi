@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Polisoft Web\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Polisoft Web\\.nuget\\packages"
+    ]
+  }
+}
